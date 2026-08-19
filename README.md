@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **nazmul.ahsan.shakib@g.bracu.ac.bd**
 
-- ⚡ Fun fact **Winter is better than summer.**
+- ⚡ Fun fact **winter is better than summer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
