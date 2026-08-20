@@ -4,8 +4,6 @@
 <h4 align="center">A passionate coder from Bangladesh</h4>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jiro-404" alt="jiro-404" /></a> </p>
-
 - 🔭 I’m currently working on a **Habit Tracker**
 
 - 🌱 I’m currently learning **Java, Springboot, Python**
